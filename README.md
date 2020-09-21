@@ -4,7 +4,7 @@ Tâche
 
 La reconnaissance des entités nommées consiste à repérer des éléments textuels et à les classer dans des catégories prédéfinies (noms de personnes, d'organisations, de marques, d'équipes sportives, etc.). Par exemple, dans "Luc mange une pomme", "Luc" doit être classé dans la catégorie "Personne". La reconnaissance d'entités nommées est souvent considérée comme l'une des briques de fondation des systèmes visant à structurer un texte tout-venant. 
 
-La tâche consiste à développer un modèle de machine learning/deep learning capable de classer chaque token ("unité" de la phrase). En entrée, on utilisera le jeu de données déjà tokenisé décrit ci-dessous avec un découpage de 80% pour l'entraînement et 20% pour le test. 
+La tâche consiste à développer un modèle de machine learning/deep learning capable de classer chaque token ("unité" de la phrase). En entrée, on utilisera le jeu de données déjà tokenisé décrit ci-dessous.
 
 Description du jeu de données :
 
