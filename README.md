@@ -1,4 +1,5 @@
-<span style="text-align:center;">Assessment Center</span>
+<div align="center">Assessment Center</div>
+
 
 ## Introduction
 
