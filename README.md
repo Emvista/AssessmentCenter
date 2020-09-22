@@ -1,4 +1,4 @@
-<div align="center">Assessment Center</div>
+<div align="center" style="color:red; font-family:Georgia; text-align:center; font-size:2em;">Assessment Center</div>
 
 
 ## Introduction
