@@ -1,8 +1,10 @@
-# AssessmentCenter
+<span style="text-align:center;">Assessment Center</span>
 
-## Tâche
+## Introduction
 
 La reconnaissance des entités nommées consiste à repérer des éléments textuels et à les classer dans des catégories prédéfinies (noms de personnes, d'organisations, de marques, d'équipes sportives, etc.). Par exemple, dans "Luc mange une pomme", "Luc" doit être classé dans la catégorie "Personne". La reconnaissance d'entités nommées est souvent considérée comme l'une des briques de fondation des systèmes visant à structurer un texte tout-venant. 
+
+## Tâche
 
 La tâche consiste à développer un modèle de machine learning/deep learning capable de classer chaque token ("unité" de la phrase). En entrée, on utilisera le jeu de données déjà tokenisé décrit ci-dessous.
 
